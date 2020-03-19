@@ -1,0 +1,4 @@
+no.nav.kafkaconnect.dialect.GenericDatabaseDialect$Provider
+no.nav.kafkaconnect.dialect.PostgreSqlDatabaseDialect$Provider
+no.nav.kafkaconnect.dialect.OracleDatabaseDialect$Provider
+no.nav.kafkaconnect.dialect.SqliteDatabaseDialect$Provider
